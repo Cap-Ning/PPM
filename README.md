@@ -25,7 +25,7 @@ During the benchmarking stage, PPM feeds the newly created prompt to the code mo
 
 ## Quick Start
 
-**Install latest code (GitHub HEAD):**
+**Install latest code:**
 
 ```shell
 pip install pip --upgrade

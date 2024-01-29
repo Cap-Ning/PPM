@@ -29,7 +29,7 @@ During the benchmarking stage, PPM feeds the newly created prompt to the code mo
 
 ```shell
 pip install pip --upgrade
-pip install PPM-FSE
+pip install CodePPM
 ```
 
 

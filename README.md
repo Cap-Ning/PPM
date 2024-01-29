@@ -21,6 +21,19 @@ The figure above illustrates the design overview of PPM, encompassing three prim
 
 During the benchmarking stage, PPM feeds the newly created prompt to the code model and retrieves the generated program code. The generated code is then executed on the test inputs, and the resulting outputs are compared against the outputs from the new implementation.
 
+</div>
+
+## Quick Start
+
+**Install latest code (GitHub HEAD):**
+
+```shell
+pip install pip --upgrade
+pip install PPM-FSE
+```
+
+<details><summary><b>Install latest stable release </b> <i>[click]</i></summary>
+<div>
 
 ## File Structure
 + src/methods               This directory includes the implementation of different methods to generate programming problems.
